@@ -31,9 +31,7 @@
 <h3 align="center">•••</h3>
 
 <br>
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
-url=https%3A%2F%2Fgithub.com%2Fdan-2ee&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=hits&edge_flat=false)]
-(https://hits.seeyoufarm.com)
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=dan-2ee&count_private=true&custom_title=DaEun's&nbsp;GitHub&nbsp;✨&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
