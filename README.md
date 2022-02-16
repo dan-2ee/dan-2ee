@@ -31,7 +31,7 @@
 <h3 align="center">•••</h3>
 
 <br>
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/dan-2ee/}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dan-2ee/&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
