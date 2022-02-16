@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=210&section=header&text=dan-2ee();&fontSize=70&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Technology Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Mysql-11B48A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
+<br>
+
 <h3 align="center"> 🐰 Me 🐰 </h3>
 <p align="center">
   <a href="https://velog.io/@__dan_n"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@__dan_n"/></a>&nbsp
@@ -23,5 +25,13 @@
   <a href="https://www.instagram.com/findviewbyid.dan_n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/findviewbyid.dan_n/"/></a>&nbsp
   <a href="mailto:ekdms7273@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ekdms7273@kookmin.ac.kr"/></a>
 </p>
+
+<br>
+
+<h3 align="center">•••</h3>
+
+<br>
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/dan-2ee/}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
