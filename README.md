@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=220&section=header&text=dan-2ee();&fontSize=70&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=92a8d1&fontColor=ffffff&height=210&section=header&fontAlignY=30&text=dan-2ee();&fontSize=70)
 <h3 align="center">🛠 Technology Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center"><img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-11B48A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 <h3 align="center"> 🐰 Me 🐰 </h3>
 <p align="center">
   <a href="https://velog.io/@__dan_n"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@__dan_n"/></a>&nbsp
@@ -30,4 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-2ee&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff&langs_count=6">
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=76819c&text=&height=200&section=footer&fontSize=90)
