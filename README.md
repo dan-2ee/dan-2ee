@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=220&section=header&text=dan-2ee();&fontSize=70&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=220&section=header&text=dan-2ee();&fontSize=60&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <h3 align="center">🛠 Technology Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center"><img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
