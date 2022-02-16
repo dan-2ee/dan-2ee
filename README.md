@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-11B48A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
+<br>
 <h3 align="center"> 🐰 Me 🐰 </h3>
 <p align="center">
   <a href="https://velog.io/@__dan_n"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@__dan_n"/></a>&nbsp
