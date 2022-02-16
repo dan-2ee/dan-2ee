@@ -32,8 +32,8 @@
 
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dan-2ee&custom_title=DaEun's&nbsp;GitHub&nbsp;✨&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff&count_private=true&line_height=24" style="width: 490px">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dan-2ee&custom_title=DaEun's&nbsp;GitHub&nbsp;✨&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff&count_private=true&line_height=24" style="width: 440px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-2ee&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff&langs_count=6">
 </p>
 
