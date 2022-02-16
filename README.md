@@ -32,6 +32,11 @@
 
 <br>
 
+<p>
 [![github stats](https://github-readme-stats.vercel.app/api?username=dan-2ee&count_private=true&custom_title=DaEun's&nbsp;GitHub&nbsp;✨&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-2ee&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
