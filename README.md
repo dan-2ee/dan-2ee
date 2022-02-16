@@ -11,9 +11,16 @@
   <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-11B48A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-6DB33F?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</p>
+
+<h3 align="center"> 🐰 Me 🐰 </h3>
+<p align="center">
+  <a href="https://velog.io/@__dan_n"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@__dan_n"/></a>&nbsp
+  <a href="https://www.instagram.com/findviewbyid.dan_n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/findviewbyid.dan_n/"/></a>&nbsp
+  <a href="mailto:ekdms7273@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ekdms7273@kookmin.ac.kr"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
