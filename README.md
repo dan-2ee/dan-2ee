@@ -20,7 +20,6 @@
   <a href="https://www.instagram.com/findviewbyid.dan_n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/findviewbyid.dan_n/"/></a>&nbsp
   <a href="mailto:ekdms7273@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ekdms7273@kookmin.ac.kr"/></a>
 </p>
-<br>
 <h3 align="center">•••</h3>
 <br>
 <p align="center">
