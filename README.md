@@ -23,6 +23,11 @@
   <a href="mailto:ekdms7273@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ekdms7273@kookmin.ac.kr"/></a>
 </p>
 <br>
+<div align="center">
+  <a href="https://solved.ac/ekdms7273">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdms7273"/>
+  </a>
+</div>
 <h3 align="center">•••</h3>
 <br>
 <p align="center">
